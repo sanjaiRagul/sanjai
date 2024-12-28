@@ -1,2 +1,0 @@
-# sanjai
-task 2
